@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "DeployedAssetsHud.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Deployed-Assets-HUD
 Creates a free HUD showing the current number of deployed assets for your team.
 
